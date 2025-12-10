@@ -1,2 +1,4 @@
-# OOP_Stefan_Ploom
+# OOP\_Stefan\_Ploom
+
+Stefan Ploom OOP õppeaine ülesannete repositoorium. 2025
 
